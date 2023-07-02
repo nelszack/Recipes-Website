@@ -124,7 +124,7 @@ footer{
 .dropdown {
     /* grid-column: 4/5; */
     position: relative;
-    /* display: inline-block; */
+    display: inline-block;
     font-size: xx-large;
     text-align: center;
     justify-self: center;
