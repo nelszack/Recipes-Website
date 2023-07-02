@@ -57,6 +57,7 @@ nav a {
     text-align: center;
     align-items: center;
     justify-items: center;
+    padding: 0 20px;
     
 
 }
@@ -111,7 +112,8 @@ footer{
     display: grid;
     grid-template-columns: auto auto;
     font-size: large;
-
+    background-color: #ffbf00;
+    margin: 150px 0;
 }
 
 
